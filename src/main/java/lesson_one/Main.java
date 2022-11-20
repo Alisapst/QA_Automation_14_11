@@ -5,6 +5,6 @@ public class Main {
 System.out.println("Hello World");
         System.out.println("QA automation");
         System.out.println("our work with git");
-        System.out.println("Hello World");
+        System.out.println("Hello Alisa from Kharkiv");
     }
 }
